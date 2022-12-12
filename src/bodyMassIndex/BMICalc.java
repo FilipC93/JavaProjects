@@ -6,6 +6,7 @@ public class BMICalc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// This should work without problems now.
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Input your weight in KG: ");
 		double weight = scanner.nextDouble();
